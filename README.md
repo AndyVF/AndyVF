@@ -14,7 +14,7 @@
   <img align="center" alt="Andy-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Andy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Andy-Alan" src="https://i.picasion.com/pic91/6600f6734cc1eb4dc0f2f783e0ca0f0d.gif">
+  <img align="right" alt="Andy-Alan" src="https://i.picasion.com/pic91/5ea256dbcc879c8996f392bbec9492c2.gif">
  
 </div>
 
